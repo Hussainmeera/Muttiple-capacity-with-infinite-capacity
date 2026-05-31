@@ -84,5 +84,8 @@ Probability that the system is empty : 0.60
 --------------------------------------------------------------
 ```
 
+## Github Link:
+https://github.com/Hussainmeera/Muttiple-capacity-with-infinite-capacity/edit/main/README.md
+
 ## Result : 
 Thus the program is implemented and executed successfully.
